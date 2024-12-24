@@ -1,7 +1,7 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-ghcr.io/home-assistant/home-assistant:sha256-b89a609c4866d3c0b0b2bd4886f612b53a8a5ba3a14257f18193480ff83690f6.sig
+ghcr.io/home-assistant/home-assistant
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
